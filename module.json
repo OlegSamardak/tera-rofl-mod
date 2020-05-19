@@ -9,5 +9,5 @@
         "settingsVersion": 1,
         "settingsFile": "config.json"
     },
-    "servers": ["https://raw.githubusercontent.com/tera-toolbox-mods/shaker/master/"]
+    "servers": ["https://gitlab.com/olegsamardak98/rolfbot/-/blob/master/"]
 }
