@@ -9,5 +9,5 @@
         "settingsVersion": 1,
         "settingsFile": "config.json"
     },
-    "servers": ["https://gitlab.com/olegsamardak98/rolfbot/-/blob/master/"]
+    "servers": ["https://raw.githubusercontent.com/OlegSamardak/tera-rofl-mod/master/"]
 }
