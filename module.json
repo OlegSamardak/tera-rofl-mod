@@ -7,7 +7,8 @@
         "niceName": "RoflMod",
         "guiName": "RoflMod",
         "settingsVersion": 1,
-        "settingsFile": "config.json"
+        "settingsFile": "config.json",
+        "settingsMigrator": "module_settings_migrator.js"
     },
     "servers": ["https://raw.githubusercontent.com/OlegSamardak/tera-rofl-mod/master/"],
     "disableAutoUpdate": false
