@@ -1,15 +1,5 @@
 {
-    "name": "RoflMod",
-    "author": "olehs",
-    "description": "Stupid gavno of stupid gavna",
-    "version": "1.0",
-    "options": {
-        "niceName": "RoflMod",
-        "guiName": "RoflMod",
-        "settingsVersion": 1,
-        "settingsFile": "config.json",
-        "settingsMigrator": "settings_migrator.js"
-    },
-    "servers": ["https://raw.githubusercontent.com/OlegSamardak/tera-rofl-mod/master/"],
-    "disableAutoUpdate": false
+    "disableAutoUpdate": false,
+    "name": "rolfmod",
+    "description": "Description goes here."
 }
