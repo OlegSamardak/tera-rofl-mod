@@ -1,3 +1,5 @@
 module.exports = function RoflMod(mod) {
-    mod.log("Переживаю за тебя, вдруг у тебя все хорошо");
+    mod.command.add('huy', (x, y, z) => {
+        mod.command.message('pizda in : ' + [x, y, z].join(', '))
+    })
 };
