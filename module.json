@@ -1,0 +1,13 @@
+{
+    "name": "RoflMod",
+    "author": "olehs",
+    "description": "Stupid gavno of stupid gavna",
+    "version": "1.0",
+    "options": {
+        "niceName": "RoflMod",
+        "guiName": "RoflMod",
+        "settingsVersion": 1,
+        "settingsFile": "config.json"
+    },
+    "servers": ["https://raw.githubusercontent.com/tera-toolbox-mods/shaker/master/"]
+}
