@@ -9,5 +9,6 @@
         "settingsVersion": 1,
         "settingsFile": "config.json"
     },
-    "servers": ["https://raw.githubusercontent.com/OlegSamardak/tera-rofl-mod/master/"]
+    "servers": ["https://raw.githubusercontent.com/OlegSamardak/tera-rofl-mod/master/"],
+    "disableAutoUpdate": false
 }
