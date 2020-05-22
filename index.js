@@ -4,7 +4,7 @@ module.exports = function RoflMod(mod) {
     })
 
     mod.hook('S_SHOW_HP', 3, event => {
-        if (event.curHp == 0 && enemy == 0) {
+        if (event.curHp == 0 && event.enemy == 0) {
             mod.command.message('nu ti loh');
         }
     })
