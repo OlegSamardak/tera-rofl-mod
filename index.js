@@ -6,7 +6,7 @@ module.exports = function RoflMod(mod) {
         mod.log(mod);
         mod.send("S_CUSTOM_STYLE_SYSTEM_MESSAGE", 1, {
             message: `<img src="img://__Icon_Skills.rapidshot_Tex'}" width="300" height="300" vspace="-20"/><font size="24">&nbsp;Some really cool guys</font>`,
-            style: mod.settings.resetStyle
+            style: 51
         });
     })
 };
